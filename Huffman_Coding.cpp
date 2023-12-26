@@ -157,6 +157,7 @@ void sequence_process(){
 int main(){
 	input_processor();
 	show_huffman_code();
+
 	input_sequence();
 	sequence_process();
 	return 0;
